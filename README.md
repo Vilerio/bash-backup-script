@@ -1,6 +1,6 @@
 # Simple bash backup script
 
-This repository is a fork of le_gabi's script for backuping datas.
+This repository is a fork of le_gabi's script for backuping datas.<br/>
 I made this fork for nothing (et en français en plus, t'as vu).
 ## Authors
 
