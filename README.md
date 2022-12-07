@@ -1,14 +1,12 @@
-# le_gabi's tools
+# Simple bash backup script
 
-This repository is the list of tools I made to make my job easier
+This repository is a fork of le_gabi's script for backuping datas.
+I made this fork for nothing.
 
 ## Authors
 
 - [@le_gabi](https://github.com/legabi)
+- [Vilerio] (https://github.com/vilerio)
 
-
-## List
-
-- [nginx-config](https://github.com/legabi/Tools/tree/main/nginx) | easy to add a server to your nginx
 
     
