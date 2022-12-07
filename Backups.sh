@@ -5,7 +5,7 @@ sudo mkdir /home/username/temporary/sql
 sudo mysqldump -u root --databases database > /home/username/temporary/sql/database.sql
 
 # tu backup quel fichier ?
-backup_files="/home /etc /var/www"
+backup_files="/home/ /etc/ /var/www/"
 
 # Tu met la backup dans ?
 dest="/Backups"
